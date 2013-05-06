@@ -1,0 +1,9 @@
+{
+	"name":"NimbleWorks/fastspring-php",
+	"type":"library",
+	"description":"Fastspring PHP Library for subscription payments",
+	"license":"MIT",
+	"require":{
+		"php":">5.3.0"
+	}
+}
